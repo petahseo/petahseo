@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Petah%20Seo&fontSize=90&fontColor=008080)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Petah%20Seo&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer!&descAlignY=51&descAlign=62)
 
 ### Hi there 👋
 
