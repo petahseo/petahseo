@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Petah%20Seo&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Petah%20Seo&fontSize=90&fontColor=008080)
 
 ### Hi there 👋
+
 
 <!--
 **petahseo/petahseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
